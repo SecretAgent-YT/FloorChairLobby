@@ -1,0 +1,4 @@
+name: FloorChairLobby
+version: '${project.version}'
+main: me.secretagent.floorchairlobby.FloorChairLobby
+api-version: 1.14
